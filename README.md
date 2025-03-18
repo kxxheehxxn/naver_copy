@@ -1,5 +1,10 @@
 # naver_copy
 
+
+## 도서 즐겨찾기 추가
+
+- bookLike.md 추가
+
 ## game
 
 ### game_news
@@ -15,3 +20,4 @@
 ### game_brd
 
 - 방송인원 추가
+
