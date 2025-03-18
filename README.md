@@ -1,3 +1,10 @@
+feature/description
+# naver_copy
+
+# 상품 설명 추가
+
+- description.html 추가함
+
 feature/list
 # naver_copy
 
@@ -71,8 +78,3 @@ main
 
 - 방송인원 추가
 feature/weahter_week
- main
-
-
-main
-mainmain
