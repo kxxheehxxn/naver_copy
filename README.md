@@ -1,5 +1,11 @@
 # naver_copy
 
+ feature/weather
+## weather
+
+- 날씨 예보
+- 맑다/흐리다/비온다/눈온다
+
 
 ## 도서 검색 추가
 
@@ -30,3 +36,4 @@
 
 - 방송인원 추가
 
+main
