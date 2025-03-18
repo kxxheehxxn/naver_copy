@@ -1,3 +1,10 @@
+feature/cart
+# naver_copy
+
+# 장바구니 추가
+
+- cart.html 추가
+
 feature/description
 # naver_copy
 
@@ -78,3 +85,4 @@ main
 
 - 방송인원 추가
 feature/weahter_week
+
