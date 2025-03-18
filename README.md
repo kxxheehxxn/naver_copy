@@ -1,3 +1,10 @@
+feature/list
+# naver_copy
+
+# 상품 목록 추가
+
+- list.html 추가
+
 feature/weahter_week
  feature/weahter_week
 # 이번주 날씨
@@ -68,4 +75,4 @@ feature/weahter_week
 
 
 main
-main
+mainmain
