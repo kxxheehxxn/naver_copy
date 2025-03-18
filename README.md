@@ -1,3 +1,15 @@
+feature/weahter_week
+ feature/weahter_week
+# 이번주 날씨
+
+## 월~수
+
+-맑다
+
+## 목~일
+
+- 비온다
+
 feature/fine-dust
 # 미서먼지
 
@@ -8,6 +20,7 @@ feature/fine-dust
 ## 다음주 미세먼지 농도
 
 -나쁘다
+main
 
 # naver_copy
 
@@ -50,5 +63,9 @@ main
 ### game_brd
 
 - 방송인원 추가
+feature/weahter_week
+ main
 
+
+main
 main
